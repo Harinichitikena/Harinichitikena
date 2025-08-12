@@ -33,25 +33,25 @@ Computer Science and Engineering
 
 - 🚀 *Email Spam Filtering with machine learning using multimodel*
   
--*Description:*
+   -*Description:*
   > A sophisticated machine learning project that leverages a multi-model approach to accurately detect and filter spam emails from inboxes 📨🚫.
   >This project combines the strengths of multiple models to improve spam detection rates and reduce false positives.
 
--*Key Features:*
- > Multi-model approach for robust spam detection 🤖 ,
- > Utilizes machine learning algorithms for efficient filtering 📊 ,
- > High accuracy in detecting spam emails with minimal false positives 📈,
- > Scalable and adaptable to various email datasets 📁
+   -*Key Features:*
+  > Multi-model approach for robust spam detection 🤖 ,
+  > Utilizes machine learning algorithms for efficient filtering 📊 ,
+  > High accuracy in detecting spam emails with minimal false positives 📈,
+  > Scalable and adaptable to various email datasets 📁
 
--*Technologies Used:*
- > Python 🐍 ,
- > Machine Learning Frameworks (e.g., scikit-learn, TensorFlow) 🤖 ,
- > Natural Language Processing (NLP) Techniques 📝
+   -*Technologies Used:*
+  > Python 🐍 ,
+  > Machine Learning Frameworks (e.g., scikit-learn, TensorFlow) 🤖 ,
+  > Natural Language Processing (NLP) Techniques 📝
 
--*Badges:*
- > Python ,
- > Machine Learning ,
- > Spam Detection ,
+   -*Badges:*
+  > Python ,
+  > Machine Learning ,
+  > Spam Detection ,
 
  *#EmailSpamFiltering #MultiModelApproach #MachineLearning #SpamDetection*
     
