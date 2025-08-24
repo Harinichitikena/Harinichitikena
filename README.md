@@ -48,7 +48,7 @@ Computer Science and Engineering
   > Machine Learning Frameworks (e.g., scikit-learn, TensorFlow) 🤖 ,
   > Natural Language Processing (NLP) Techniques 📝
 
-   -*Badges:*
+   -*Badges🎖:*
   > Python ,
   > Machine Learning ,
   > Spam Detection ,
