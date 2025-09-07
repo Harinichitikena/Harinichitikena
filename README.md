@@ -4,7 +4,7 @@
 - *Bachelor of Technology (B.Tech)*  
 Computer Science and Engineering  
 🎓 Sir C.R. Reddy College of Engineering  - JNTUK  
-📅 2021 – 2025  
+📅 2021 – 2025 
 📊 CGPA: *8.23*
 ## 🔧 Tech Stack
 
