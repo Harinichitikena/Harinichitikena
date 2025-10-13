@@ -51,7 +51,7 @@ Computer Science and Engineering
    -*Badges🎖:*
   > Python ,
   > Machine Learning ,
-  > Spam Detection ,
+  > Spam Detection 
 
  *#EmailSpamFiltering #MultiModelApproach #MachineLearning #SpamDetection*
     
